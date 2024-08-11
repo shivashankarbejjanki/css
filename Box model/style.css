@@ -1,0 +1,28 @@
+.div h1 {
+    height: 200px;
+    width: 200px;
+}
+
+#padding {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 100px;
+    border: dotted; color: red;
+    border-radius: 30px;
+}
+
+#div1 {
+    height: 100px;
+    width: 100px;
+    color: red;
+    background-color: blue;
+}
+
+#div2 {
+    height: 150px;
+    width: 150px;
+    color: aqua;
+    background-color: yellow;
+}
